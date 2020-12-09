@@ -1,2 +1,2 @@
-# music.collection
+# music-collection-web
 播放器
